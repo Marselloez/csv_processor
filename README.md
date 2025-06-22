@@ -1,1 +1,1 @@
-[Демо работы](csv_processor/demo.jpg)
+![Демо работы](csv_processor/demo.jpg)
