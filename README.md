@@ -1,1 +1,1 @@
-![Uploading Скриншот 22-06-2025 224722.jpg…]()
+[Демо работы](csv_processor/demo.jpg)
